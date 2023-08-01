@@ -1,0 +1,16 @@
+#in{
+    font-size:  30px; 
+}
+body{
+    text-align: center;
+}
+.h{
+color: white;
+background-color: black;
+border-radius: 100%;
+}
+#heading{
+    color: white;
+    background-color: black;
+    border-radius: 100px;
+}
